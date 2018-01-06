@@ -1,0 +1,20 @@
+c:\users\henry\source\repos\KerbalKlinic\KerbalKlinic\bin\Debug\KerbalKlinic.dll
+c:\users\henry\source\repos\KerbalKlinic\KerbalKlinic\bin\Debug\KerbalKlinic.pdb
+c:\users\henry\source\repos\KerbalKlinic\KerbalKlinic\bin\Debug\Assembly-CSharp-firstpass.dll
+c:\users\henry\source\repos\KerbalKlinic\KerbalKlinic\bin\Debug\Assembly-CSharp.dll
+c:\users\henry\source\repos\KerbalKlinic\KerbalKlinic\bin\Debug\KSPAssets.dll
+c:\users\henry\source\repos\KerbalKlinic\KerbalKlinic\bin\Debug\UnityEngine.dll
+c:\users\henry\source\repos\KerbalKlinic\KerbalKlinic\bin\Debug\UnityEngine.UI.dll
+c:\users\henry\source\repos\KerbalKlinic\KerbalKlinic\bin\Debug\KSPTrackIR.dll
+c:\users\henry\source\repos\KerbalKlinic\KerbalKlinic\bin\Debug\Mono.Cecil.dll
+c:\users\henry\source\repos\KerbalKlinic\KerbalKlinic\bin\Debug\TDx.TDxInput.dll
+c:\users\henry\source\repos\KerbalKlinic\KerbalKlinic\bin\Debug\Mono.Security.dll
+c:\users\henry\source\repos\KerbalKlinic\KerbalKlinic\bin\Debug\UnityEngine.xml
+D:\Henry\Desktop\KRPC\Application Files\KerbalKlinic\KerbalKlinic.dll
+D:\Henry\Desktop\KRPC\Application Files\KerbalKlinic\KerbalKlinic.pdb
+c:\users\henry\source\repos\KerbalKlinic\KerbalKlinic\obj\Debug\KerbalKlinic.csprojResolveAssemblyReference.cache
+c:\users\henry\source\repos\KerbalKlinic\KerbalKlinic\obj\Debug\KerbalKlinic.Properties.Resources.resources
+c:\users\henry\source\repos\KerbalKlinic\KerbalKlinic\obj\Debug\KerbalKlinic.csproj.GenerateResource.Cache
+c:\users\henry\source\repos\KerbalKlinic\KerbalKlinic\obj\Debug\KerbalKlinic.csproj.CoreCompileInputs.cache
+c:\users\henry\source\repos\KerbalKlinic\KerbalKlinic\obj\Debug\KerbalKlinic.dll
+c:\users\henry\source\repos\KerbalKlinic\KerbalKlinic\obj\Debug\KerbalKlinic.pdb
