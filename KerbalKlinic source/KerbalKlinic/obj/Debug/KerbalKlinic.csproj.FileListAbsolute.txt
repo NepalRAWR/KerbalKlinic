@@ -18,3 +18,9 @@ c:\users\henry\source\repos\KerbalKlinic\KerbalKlinic\obj\Debug\KerbalKlinic.csp
 c:\users\henry\source\repos\KerbalKlinic\KerbalKlinic\obj\Debug\KerbalKlinic.csproj.CoreCompileInputs.cache
 c:\users\henry\source\repos\KerbalKlinic\KerbalKlinic\obj\Debug\KerbalKlinic.dll
 c:\users\henry\source\repos\KerbalKlinic\KerbalKlinic\obj\Debug\KerbalKlinic.pdb
+C:\Users\Henry\source\repos\KerbalKlinic source\KerbalKlinic\obj\Debug\KerbalKlinic.csprojResolveAssemblyReference.cache
+C:\Users\Henry\source\repos\KerbalKlinic source\KerbalKlinic\obj\Debug\KerbalKlinic.Properties.Resources.resources
+C:\Users\Henry\source\repos\KerbalKlinic source\KerbalKlinic\obj\Debug\KerbalKlinic.csproj.GenerateResource.Cache
+C:\Users\Henry\source\repos\KerbalKlinic source\KerbalKlinic\obj\Debug\KerbalKlinic.csproj.CoreCompileInputs.cache
+C:\Users\Henry\source\repos\KerbalKlinic source\KerbalKlinic\obj\Debug\KerbalKlinic.dll
+C:\Users\Henry\source\repos\KerbalKlinic source\KerbalKlinic\obj\Debug\KerbalKlinic.pdb

@@ -53,7 +53,7 @@ namespace KerbalKlinic
             //create appbutton
             if (appLauncherButton == null)
             {
-                var texture = new Texture2D(36, 36, TextureFormat.RGBA32, false);
+                Texture2D texture = new Texture2D(36, 36, TextureFormat.RGBA32, false);
                 texture.LoadImage(File.ReadAllBytes(RelPath + "/files/button.png"));
                 appLauncherButton =  KSP.UI.Screens.ApplicationLauncher.Instance.AddModApplication(
                   () => { ButtonPress = true; },
